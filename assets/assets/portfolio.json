@@ -1,0 +1,258 @@
+{
+    "name_and_link": [
+        "Sithvothy KIV.",
+        "https://github.com/sithvothykiv"
+    ],
+    "designation": [
+        "MSIT Postgraduate.",
+        "Flutter Developer."
+    ],
+    "resume_download_link": "",
+    "social_media": {
+        "1": [
+            "https://github.com/sithvothykiv",
+            "github"
+        ],
+        "2": [
+            "https://www.linkedin.com/in/sithvothy-kiv-587a77164/",
+            "linkedin"
+        ],
+        "3": [
+            "https://t.me/SithVothyKIV",
+            "telegram"
+        ],
+        "4": [
+            "https://www.instagram.com/k.sithvothy/",
+            "instagram"
+        ],
+        "5": [
+            "mailto:kivsethvuthy12@gmail.com",
+            "email"
+        ]
+    },
+    "contact_me": {
+        "location": "Phnom Penh, Cambodia",
+        "open_for_opportunities": "Yes",
+        "picture": "me.png"
+    },
+    "about": "A passionate Developer | Cloud Compute | DevOps | Data Scientist 🚀",
+    "bio": "MSIT Student. I have experience with Flutter, Git, AWS, Python, Swift and other frameworks. Great understanding of Mobile App Development. Experience in responsive Web Development and UX/UI Design.",
+    "what_i_do": {
+        "tools": [
+            "flutter.png",
+            "linux.png",
+            "python.png",
+            "bash.png",
+            "JavaScript-logo.png",
+            "Amazon_Web_Services_Logo.png",
+            "Swift_logo.png",
+            "Postgresql_elephant.png",
+            "java.png",
+            "figma-logo.png",
+            "c.png",
+            "cpp.png"
+        ],
+        "proficiency": [
+            "Dart/Flutter--80",
+            "JS/NodeJs/Swift/Python--50",
+            "GNU/Bash/Linux--60",
+            "Java/C/C++--50",
+            "Git/Jira/Docker/DevOps/AWS--60",
+            "UX/UI/Figma/AdobeXD--70",
+            "Database/PostgreSQL/SQLite/Realm--50",
+            "Project Management--60",
+            "Agile/Business Development--60",
+            "Communication Skills--60"
+        ]
+    },
+    "education": {
+        "1": {
+            "institute": "University of Puthisastra",
+            "location": "Phnom Penh, Cambodia",
+            "years": "2022 - Present",
+            "description": "Master Degree, Data Science.",
+            "grades": "N/A",
+            "logo": "puthisastra-logo.png"
+        },
+        "2": {
+            "institute": "Royal University of Phnom Penh",
+            "location": "Phnom Penh, Cambodia",
+            "years": "2016 - 2020",
+            "description": "Bachelor Degree, Computer Science",
+            "grades": "GPA 3.0",
+            "logo": "rupp-logo.png"
+        },
+        "3": {
+            "institute": "Samdach Ouv High School", 
+            "location": "Banteay Meanchey, Cambodia",
+            "years": "2011 - 2016",
+            "description": "High School",
+            "grades": "Completed BacII (2016)",
+            "logo": "MoEYS_(Cambodia).png"
+        },
+        "4": {
+            "institute": "Information Technologies Professional Clubs",
+            "location": "Phnom Penh, Cambodia",
+            "years": "2017 - 2017",
+            "description": "Flutter/Dart Short Course Training. ",
+            "grades": "Completed",
+            "logo": "ITPC.png"
+        },
+        "5": {
+            "institute": "ANT Technology Training Center",
+            "location": "Phnom Penh, Cambodia",
+            "years": "2018 - 2018",
+            "description": "C/C++ Short Course Training. ",
+            "grades": "Completed",
+            "logo": "atn-training-center.png"
+        },
+        "6": {
+            "institute": "ANT Technology Training Center",
+            "location": "Phnom Penh, Cambodia",
+            "years": "2018 - 2018",
+            "description": "Java Short Course Training. ",
+            "grades": "Completed",
+            "logo": "atn-training-center.png" 
+        },
+        "7": {
+            "institute": "Udemy, iOS Development",
+            "location": "E-Learning/Online Course",
+            "years": "2022 - 2022",
+            "description": "The Complete iOS App Development Course, iOS, Swift.",
+            "grades": "Completed",
+            "logo": "Udemy_logo.png"
+        },
+        "8": {
+            "institute": "Udemy, NodeJS",
+            "location": "E-Learning/Online Course",
+            "years": "2022 - 2022",
+            "description": "Node, SQL, & PostgreSQL - Mastering Backend Web Development",
+            "grades": "Completed",
+            "logo": "Udemy_logo.png"
+        },
+        "9": {
+            "institute": "AWS Academy Cloud Foundations",
+            "location": "Amazon Web Services Training and Certification            ",
+            "years": "September, 2022 - January, 2023",
+            "description": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+            "grades": "Completed",
+            "logo": "Amazon_Web_Services_Logo.png"
+        }
+    },
+    "experience": {
+        "1": {
+            "name": "My Github",
+            "role": "Owner",
+            "period": "December, 2022 - Present",
+            "description": "Develop useful tools, Pratice DevOps using Aws Cloud Compute, Create sample code projects (NodeJs, Flutter, Python, Swfit).",
+            "image_name": "github-logo.png"
+        },
+        "2": {
+            "name": "Infinity Information & Apps Dev Co., Ltd.",
+            "role": "Mobile App Developer (Flutter)",
+            "period": "May, 2021 - Present",
+            "description": "Working as a Mobile App Developer using Flutter to build, create, test, and develop applications on mobile devices.",
+            "image_name": "infinity-03.png"
+        },
+        "3": {
+            "name": "Agribee Cambodia PLC.",
+            "role": "Mobile App Developer (Flutter)",
+            "period": "January, 2020 - April, 2021",
+            "description": "Worked on the Flutter App Dev Team and created BeeApp to help with internal operations.",
+            "image_name": "agriBee.logo.png"
+        },
+        "4": {
+            "name": "CloudNET Cambodia.",
+            "role": "Mobile App Developer Intern (Flutter)",
+            "period": "July, 2019 - January, 2020",
+            "description": "Developing new features and user interfaces from wireframe models and fixing bugs, problems. Writing clean, readable, and testable code.",
+            "image_name": "cloudnet-logo.png"
+        },
+        "5": {
+            "name": "Royal University of Phnom Penh.",
+            "role": "Computer Lab Assistant",
+            "period": "October, 2018 - July, 2019            ",
+            "description": "Maintains a clean, safe, and orderly computer laboratory environment.",
+            "image_name": "rupp-logo.png"
+        }
+       
+    },
+    "projects": {
+        "1": {
+            "name": "Regalia '22 Backend",
+            "tech_stack_used": "FastAPI and MongoDB (using Python)",
+            "description": "Backend of Regalia '22, RCCIIT's cultural fest. Handled total entries for 1.2K+ attendees on both the event days each. Also handled on-spot registrations (including sending passes through email using MAILGUN API) and free entries, without encountering a single production bug.",
+            "general_or_github_link": "https://github.com/danger-ahead/regalia-2022-backend"
+        },
+        "2": {
+            "name": "TechTrix '22 Backend",
+            "tech_stack_used": "FastAPI and MongoDB (using Python)",
+            "description": "Made the backend of TechTrix '22, RCCIIT's tech fest. Handled 435+ participants, 60+ coordinators, and 560+ event registrations, without encountering a single production bug.",
+            "general_or_github_link": "https://github.com/danger-ahead/techtrix22-backend"
+        },
+        "3": {
+            "name": "Calculator",
+            "tech_stack_used": "Flutter",
+            "description": "Calculator app based on Soft UI (neumorphism), having simple and advanced modes. Also has a history section to save previously performed operations (using FLUTTER SQLITE). Supports 3 theme modes - system default, light and dark. State management approach used - RIVERPOD. PUBLISHED ON F-DROID.",
+            "general_or_github_link": "https://github.com/belelaritra/Neumorphic_Calculator"
+        },
+        "4": {
+            "name": "flutter_dev_folio",
+            "tech_stack_used": "Flutter",
+            "description": "Minimal, Beautiful and responsive portfolio site template.",
+            "general_or_github_link": "https://github.com/danger-ahead/flutter_dev_folio"
+        },
+        "5": {
+            "name": "roBOT - Discord bot",
+            "tech_stack_used": "Python, MongoDB, REST APIs",
+            "description": "Bot with administrative commands (for kick, ban, mute, etc) and other fun commands (for memes, movies, jokes, etc).",
+            "general_or_github_link": "https://github.com/danger-ahead/roBOT"
+        },
+        "6": {
+            "name": "cinephilic",
+            "tech_stack_used": "HTML, CS, JS",
+            "description": "A chrome extension for showing the current trending movies in new tab.",
+            "general_or_github_link": "https://github.com/quasar-rcciit/cinephilic"
+        },
+        "7": {
+            "name": "Dictionary",
+            "tech_stack_used": "Flutter, SQLite, REST APIs",
+            "description": "Multi-language dictionary app with support for audio pronunciation (English only).",
+            "general_or_github_link": "https://github.com/danger-ahead/flutter_dictionary"
+        },
+        "8":{
+            "name": "Note",
+            "tech_stack_used": "JAVA, MySQL",
+            "description": "Simple terminal based Note Taking Application.",
+            "general_or_github_link": "https://github.com/danger-ahead/Note"
+        },
+        "9":{
+            "name": "Enigma-tic-cryption",
+            "tech_stack_used": "C++",
+            "description": "Follows the exact encryption method used by the enigma. Has multiple modes for setting different rotors.",
+            "general_or_github_link": "https://github.com/danger-ahead/enigma-tic-cryption"
+        }
+    },
+    "achievements": {
+        "1": {
+            "description": "Worked in a team (Quasar) at HackNPitch’21 (hackathon organised by JU E-Cell ) and ranked in the top 6 (earned the special mention tag) among 50+ other teams across India.",
+            "link": "https://www.linkedin.com/posts/juecell_hacknpitch-include-hackathon-activity-6849231722333249536-qqw2"
+        },
+        "2": {
+            "description": "Won Filecoin track prize from Filecoin for the best use of Filecoin and/or IPFS in a hackathon project (worth Rs. 20,000).",
+            "link": "https://www.linkedin.com/posts/shourya-shikhar_dapp-filecoin-decentralized-activity-6889903951555235840-FuLM"
+        },
+        "3": {
+            "description": "Have 600+ reputation points in Stack Overflow.",
+            "link": "https://stackoverflow.com/users/10951873/shourya-shikhar"
+        },
+        "4": {
+            "description": "Completed 30 Days of Google Cloud '21.\n- Completed Cloud Engineering Track\n- Completed Data Science & Machine Learning Track",
+            "link": "https://www.qwiklabs.com/public_profiles/d317f0a6-63b7-4c9f-be77-066e75ba3c6a"
+        },
+        "5": {
+            "description": "Completed Hacktoberfest '21 with 6 merged PRs.",
+            "link": "https://www.linkedin.com/posts/shourya-shikhar_hacktoberfest2021-hacktoberfest-opensource-activity-6857565719031361536-OpX8"
+        }
+    }
+}
